@@ -32,3 +32,12 @@ de forma ótima com base no feedback do ambiente. Inicialmente, as
 ferramentas matemáticas da teoria de controle eram bem diferentes 
 da I.A, mas os campos estão se tornando mais próximos.
 
+##################################################################
+
+LINK PARA COMPRAR O LIVRO:
+- https://www.submarino.com.br/produto/234759/livro-inteligencia-artificial?WT.srch=1&acc=d47a04c6f99456bc289220d5d0ff208d&epar=bp_pl_00_go_g35177&gclid=EAIaIQobChMI87uR9tXF5wIViIKRCh3qUgZ7EAQYAiABEgLSIPD_BwE&i=561e53416ed24cafb5322074&o=55b01ba49c3238c7d1cd599b&opn=XMLGOOGLE&sellerid=03&wt.srch=1
+
+NOME DO LIVRO:
+- Inteligêcia Artificial - (Stuart Russell e Peter Norving)
+
+
