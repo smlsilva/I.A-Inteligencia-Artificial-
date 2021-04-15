@@ -1,11 +1,17 @@
-<h1>Processamento de Imagem</h1>
+# Processamento de Imagem
+  <p> :pencil: Objetivo é adquirir conhecimento com processamento de imagens <br> utilizando a linguagem Python! </p>
+  
+# Linguagem utilizada
+   <ul>
+   <li>Python :snake: </li> 
+   </ul>
+      
+# Bibliotecas :book: 
+   <ul>
+   <li>Opencv2</li>
+   <li>matplotlib.pyplot 📊</li>
+   <li>numpy :chart_with_downwards_trend: </li>
+   </ul>
 
-<h2>Tecnologias utilizadas</h2>
-   
-   <p>Linguagem utilizada</p>
-     - Python 
-   
-   Bibliotecas 
-      - Opencv2
-      - matplotlib.pyplot
-      - numpy
+# Sugestões
+   <p> Caso queira fazer alguma sugestão, pode enviar um <b>pull request</b> </p>
