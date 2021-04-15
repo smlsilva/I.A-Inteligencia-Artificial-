@@ -1,15 +1,11 @@
-# Processamento de Imagem
+<h1>Processamento de Imagem</h1>
 
-# Tecnologias utilizadas
+<h2>Tecnologias utilizadas</h2>
    
-   <strong>Linguagem utilizada</strong>
+   <p>Linguagem utilizada</p>
      - Python 
    
-   <strong>Bibliotecas</strongs>
-   <li>
-     <ul>
-        Opencv2
-        matplotlib.pyplot
-        numpy
-     </ul>
-   </li>
+   Bibliotecas 
+      - Opencv2
+      - matplotlib.pyplot
+      - numpy
